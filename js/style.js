@@ -14,4 +14,4 @@ setInterval(() => {
     min.style.transform = `rotateZ(${mm}deg)`;
     sec.style.transform = `rotateZ(${ss}deg)`;
 
-});
+})
