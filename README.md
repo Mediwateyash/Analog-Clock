@@ -24,9 +24,9 @@ To use this project, follow these steps:
 Navigate into the project directory:
 cd Analog-Clock
 
-## Open the index.html file in your web browser to view the clock.
+### Open the index.html file in your web browser to view the clock.
 
-# Usage
+### Usage
 Once the page is loaded, the clock will display and update the time in real-time.
 You can customize the clock design by editing the CSS file, adjusting properties like background color, hand sizes, or clock face appearance.
 Contributing
@@ -34,4 +34,4 @@ Contributions are welcome! If you'd like to contribute, feel free to fork the re
 
 Please make sure to follow the coding standards and write clear commit messages.
 
-# Feel free to connet me on my social media if you need any help
+### Feel free to connet me on my social media if you need any help
